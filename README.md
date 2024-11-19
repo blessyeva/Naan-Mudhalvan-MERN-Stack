@@ -31,4 +31,5 @@ Data encryption
 Access controls
 Compliance with data protection regulations (e.g., GDPR, CCPA).
 
-video link : https://drive.google.com/file/d/10jx93h6EDLgbAIWhmmX_GHeVCsIXWiW9/view?usp=drivesdk
+video link : https://drive.google.com/file/d/1izzaxvQSZzuVuE0mWhiBmhoaUP-ZNJgb/view?usp=sharing
+
